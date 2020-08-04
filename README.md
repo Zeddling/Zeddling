@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Aspiring computer vision engineer 😄
-Backend developer: Java, C++, Python(Flask)
+Backend developer: Java, C++, Python(Flask)<br>
 I'm currently learning DL4J, J2EE, OpenCV and JavaFX
 
 <!--
