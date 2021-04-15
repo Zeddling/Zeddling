@@ -1,7 +1,10 @@
 ### Hi there 👋
 ## Aspiring machine learning engineer 😄
-Backend developer: Java, C++, Python(Flask)<br>
-I'm currently learning DL4J, J2EE, OpenCV and JavaFX
+Backend developer<br>
+Java(Spring Boot), C++(Just for fun), Python(Flask, Scipy, Tensorflow), ReactJS<br>
+<code>
+  Fun Fact: Tea is only leaf soup. Prove me wrong(victorzeddys@protonmail.com)
+</code>
 
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
