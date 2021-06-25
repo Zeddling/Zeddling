@@ -1,11 +1,8 @@
 ### Hi there 👋
-## Aspiring machine learning engineer 😄
-Backend developer<br>
-Java(Spring Boot), C++(Just for fun), Python(Flask, Scipy, Tensorflow), ReactJS<br>
-<code>
-  Fun Fact: Tea is only leaf soup. Prove me wrong(victorzeddys@protonmail.com)
-</code>
+##  Aspriring computer scientist 😄
+Languages: Rust, Java(Spring Framework), Python(Flask, Scikit & Tensorflow)
 
+⚡ Fun fact: Tea is just dried leaf soup. Change my mind
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
