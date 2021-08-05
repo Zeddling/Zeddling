@@ -9,7 +9,7 @@ Languages: Rust, Java(Spring Framework), Python(Flask, Scikit & Tensorflow)
 3. [File transfer](https://github.com/Zeddling/file-transfer)
 
 ### Machine Learning
-[Papers](https://github.com/Zeddling/Hands_On_ML)
+[Papers](https://github.com/Zeddling/Papers)
 
 ### Notable School Assignments
 1. [Web Services](https://github.com/Zeddling/DOWS-Assignments)
