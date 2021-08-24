@@ -15,6 +15,10 @@ Languages: Rust, Java(Spring Framework), Python(Flask, Scikit & Tensorflow)
 1. [Web Services](https://github.com/Zeddling/DOWS-Assignments)
 2. [Lexical Analyzer](https://github.com/Zeddling/compiler-construction)
 3. [Custom Secure Socket with RSA Key Pair](https://github.com/Zeddling/DS-Assignment)
+
+### Projects in progress
+1. [Calc](https://github.com/Zeddling/Calc)
+2. [Tango](https://github.com/Zeddling/Tango)
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
