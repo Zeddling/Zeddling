@@ -7,6 +7,7 @@ Languages: Rust, Java(Spring Framework), Python(Flask, Scikit & Tensorflow)
 1. [Calc](https://github.com/Zeddling/Calc)
 2. [Minigrep](https://github.com/Zeddling/minigrep)
 3. [File transfer](https://github.com/Zeddling/file-transfer)
+4. [Tango](https://github.com/Zeddling/Tango)
 
 ### Machine Learning
 [Papers](https://github.com/Zeddling/Papers)
@@ -18,7 +19,6 @@ Languages: Rust, Java(Spring Framework), Python(Flask, Scikit & Tensorflow)
 
 ### Projects in progress
 1. [Calc](https://github.com/Zeddling/Calc)
-2. [Tango](https://github.com/Zeddling/Tango)
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
