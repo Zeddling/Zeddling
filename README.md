@@ -21,6 +21,7 @@ Languages: Rust, Java(Spring Framework), Python(Flask, Scikit & Tensorflow)
 
 ### Projects in progress
 1. [Calc](https://github.com/Zeddling/Calc)
+2. [Tibu](https://github.com/Zeddling/Tibu)
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
