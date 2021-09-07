@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##  Aspriring computer scientist 😄
-Languages: Rust, Java(Spring Framework), Python(Flask, Scikit & Tensorflow)
+Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 
 ## Notable Projects
 ### Rust
