@@ -21,7 +21,7 @@ Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 
 ### Projects in progress
 1. [Calc](https://github.com/Zeddling/Calc)
-2. [Notes App](https://github.com/Zeddling/notes)
+2. [Go Chat](https://github.com/Zeddling/Go_Chat)
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
