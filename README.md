@@ -11,6 +11,9 @@ Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow), Go
 ### Django
 1. [Tango](https://github.com/Zeddling/Tango)
 
+### Spring Boot
+1. [Notes and Tasks](https://github.com/Zeddling/notes_and_tasks)
+
 ### Machine Learning
 [Papers](https://github.com/Zeddling/Papers)
 
