@@ -3,6 +3,9 @@
 Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow), Go
 
 ## Notable Projects
+### Machine Learning
+[Papers](https://github.com/Zeddling/Papers)
+
 ### Rust
 1. [Calc](https://github.com/Zeddling/Calc)
 2. [Minigrep](https://github.com/Zeddling/minigrep)
@@ -13,9 +16,6 @@ Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow), Go
 
 ### Spring Boot
 1. [Notes and Tasks](https://github.com/Zeddling/notes_and_tasks)
-
-### Machine Learning
-[Papers](https://github.com/Zeddling/Papers)
 
 ### Notable School Assignments
 1. [Web Services](https://github.com/Zeddling/DOWS-Assignments)
