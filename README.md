@@ -22,6 +22,7 @@ Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow), Go
 
 ### Go
 1. [User API](https://github.com/Zeddling/user_api)
+2. [Go Chat](https://github.com/Zeddling/Go_Chat)
 
 ### Notable School Assignments
 1. [Web Services](https://github.com/Zeddling/DOWS-Assignments)
@@ -31,8 +32,6 @@ Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow), Go
 ### Projects in progress
 1. [Calc](https://github.com/Zeddling/Calc)
 2. [Gophercises](https://github.com/Zeddling/gophercises)
-### Production on Hold
-1. [Go Chat](https://github.com/Zeddling/Go_Chat)
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
