@@ -20,6 +20,9 @@ Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow), Go
 ### Spring Boot
 1. [Notes and Tasks](https://github.com/Zeddling/notes_and_tasks)
 
+### Go
+1. [User API](https://github.com/Zeddling/user_api)
+
 ### Notable School Assignments
 1. [Web Services](https://github.com/Zeddling/DOWS-Assignments)
 2. [Lexical Analyzer](https://github.com/Zeddling/compiler-construction)
