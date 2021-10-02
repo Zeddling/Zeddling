@@ -13,6 +13,7 @@ Languages: Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow), Go
 
 ### Django
 1. [Tango](https://github.com/Zeddling/Tango)
+2. [Notes](https://github.com/Zeddling/notes)
 
 ### Flask
 1. [Prediction API](https://github.com/Zeddling/BDSS/blob/main/scripts/model_bdss.ipynb)
