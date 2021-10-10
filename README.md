@@ -26,7 +26,7 @@ Languages: Go, Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 2. [Go Chat](https://github.com/Zeddling/Go_Chat)
 
 ### Notable School Assignments
-1. [Web Services](https://github.com/Zeddling/DOWS-Assignments)
+1. [Distributed Web Services using Java](https://github.com/Zeddling/DOWS-Assignments)
 2. [Lexical Analyzer](https://github.com/Zeddling/compiler-construction)
 3. [Custom Secure Socket with RSA Key Pair](https://github.com/Zeddling/DS-Assignment)
 
