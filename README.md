@@ -1,5 +1,5 @@
 ### Hi there 👋
-##  Aspriring computer scientist 😄
+##  Aspriring computer vision scientist 😄
 Languages: Go, Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 
 ## Notable Projects
