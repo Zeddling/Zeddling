@@ -6,6 +6,11 @@ Languages: Go, Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 ### Machine Learning
 [Papers](https://github.com/Zeddling/Papers)
 
+### Go
+1. [User API](https://github.com/Zeddling/user_api)
+2. [Go Chat](https://github.com/Zeddling/Go_Chat)
+3. [Caesar Cipher Microservice](https://github.com/Zeddling/caesar_cipher_microservice)
+
 ### Rust
 1. [Calc](https://github.com/Zeddling/Calc)
 2. [Minigrep](https://github.com/Zeddling/minigrep)
@@ -20,10 +25,6 @@ Languages: Go, Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 
 ### Spring Boot
 1. [Notes and Tasks](https://github.com/Zeddling/notes_and_tasks)
-
-### Go
-1. [User API](https://github.com/Zeddling/user_api)
-2. [Go Chat](https://github.com/Zeddling/Go_Chat)
 
 ### Notable School Assignments
 1. [Distributed Web Services using Java](https://github.com/Zeddling/DOWS-Assignments)
