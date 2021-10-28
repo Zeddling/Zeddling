@@ -3,6 +3,9 @@
 Languages: Go, Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 
 ## Notable Projects
+### Project 52 Challenge
+[Link to Repo](https://github.com/Zeddling/project_52)
+
 ### Machine Learning
 [Papers](https://github.com/Zeddling/Papers)
 
