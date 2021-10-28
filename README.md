@@ -4,6 +4,7 @@ Languages: Go, Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
 
 ## Notable Projects
 ### Project 52 Challenge
+Entails doing 52 projects in 52 weeks. Currently completed 2.<br>
 [Link to Finished Projects](https://github.com/Zeddling/project_52)
 
 ### Machine Learning
