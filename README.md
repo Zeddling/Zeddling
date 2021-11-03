@@ -1,6 +1,6 @@
 ### Hi there 👋
-##  Aspriring computer vision scientist 😄
-Languages: Go, Rust, Java(Spring Framework), Python(Django, Scikit & Tensorflow)
+##  Aspiring computer scientist 😄
+Languages: Go, Rust, Java, Python
 
 ## Notable Projects
 ### Project 52 Challenge
