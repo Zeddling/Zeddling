@@ -5,7 +5,7 @@ Languages: Go, Rust, Java, Python
 ## Notable Projects
 
 ### Project 52 Challenge
-Entails doing 52 projects in 52 weeks. Currently completed 7.<br>
+Entails doing 52 projects in 52 weeks. Currently completed 8.<br>
 Languages used: Rust, Go, Java
 [Link to Finished Projects](https://github.com/Zeddling/project_52)
 
