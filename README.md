@@ -14,9 +14,6 @@ Languages used: Rust, Go, Java
 2. [Lexical Analyzer](https://github.com/Zeddling/compiler-construction)
 3. [Custom Secure Socket with RSA Key Pair](https://github.com/Zeddling/DS-Assignment)
 
-### Projects in progress
-1. [Calc](https://github.com/Zeddling/Calc)
-2. [Gophercises](https://github.com/Zeddling/gophercises)
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
