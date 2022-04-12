@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##  Aspiring computer scientist 😄
-Languages: Go, Rust, Java, Python
+Languages: C++, Rust, Java, Python
 
 ## Notable Projects
 
