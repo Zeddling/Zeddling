@@ -11,8 +11,8 @@ Languages used: Rust, Go, Java, Python
 
 ### Notable School Assignments
 1. [Distributed Web Services using Java](https://github.com/Zeddling/DOWS-Assignments)
-2. [Lexical Analyzer](https://github.com/Zeddling/compiler-construction)
-3. [Custom Secure Socket with RSA Key Pair](https://github.com/Zeddling/DS-Assignment)
+2. [Lexical Analyzer using C++](https://github.com/Zeddling/compiler-construction)
+3. [Custom Secure Socket with RSA Key Pair in Java](https://github.com/Zeddling/DS-Assignment)
 
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
