@@ -1,6 +1,6 @@
 ### Hi there 👋
-##  Aspiring Computer Scientist 😄
-Languages: Rust, Java, C++, Python
+##  Backend Engineer 😄
+Languages: Rust, Java, Go
 
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
