@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Zeddling"><img width="80%" alt="Hello, I'm Victor. I do open source!" src="./README.png" /></a></p>
+<p align="center"><a href="https://github.com/Zeddling"><img width="100%" alt="Hello, I'm Victor. I do open source!" src="./README.png" /></a></p>
 
 I'm a Kenyan backend engineer focusing more on building distributed systems. I also double as a Web3 engineer.
 
