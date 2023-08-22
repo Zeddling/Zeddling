@@ -11,6 +11,7 @@ I am currently working at a fintech startup using my gitlab account(same usernam
 Got a project/hackathon you want to try out?
 
 email: victorzeddys@protonmail.com
+gitlab: https://gitlab.com/Zeddling
 
 <!--
 **Zeddling/Zeddling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
