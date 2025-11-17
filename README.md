@@ -1,9 +1,9 @@
 <p align="center"><a href="https://github.com/Zeddling"><img width="100%" alt="Hello, I'm Victor. I do open source!" src="./README.png" /></a></p>
 
-I'm a Kenyan backend engineer and tech consultant focusing more on building distributed systems. I also double as a Web3 engineer.
+I'm a Kenyan software engineer and tech consultant focusing more on building distributed systems.
 
 __About Me__
-1. Java and Go are my daily bread
+1. Java and Go are my daily bread. Sometimes, I feel rusty 🦀;
 2. When the code doesn't work, I bang a chord on the piano
 
 Got a project/hackathon you want to try out?
